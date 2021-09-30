@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/cbsinteractive/delete-tfc-workspace-action/compare/1.1.0...1.2.0) (2021-09-30)
+
+
+### Features
+
+* Prep to publish to marketplace ([e24f16e](https://github.com/cbsinteractive/delete-tfc-workspace-action/commit/e24f16e2ef29a2780b8cc9d07feb54c2c6969e5d))
+
 # [1.1.0](https://github.com/cbsinteractive/delete-tfc-workspace-action/compare/1.0.0...1.1.0) (2021-09-29)
 
 
