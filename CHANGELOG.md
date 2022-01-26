@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/cbsinteractive/delete-tfc-workspace-action/compare/1.2.0...1.3.0) (2022-01-26)
+
+
+### Features
+
+* Use tfc-cli v1.0.0 ([7b219a2](https://github.com/cbsinteractive/delete-tfc-workspace-action/commit/7b219a23ca88f68ef2678b7b3055d36c1086a3b6))
+
 # [1.2.0](https://github.com/cbsinteractive/delete-tfc-workspace-action/compare/1.1.0...1.2.0) (2021-09-30)
 
 
