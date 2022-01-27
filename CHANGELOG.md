@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/cbsinteractive/delete-tfc-workspace-action/compare/1.4.0...1.5.0) (2022-01-27)
+
+
+### Features
+
+* Rename action ([e02fea6](https://github.com/cbsinteractive/delete-tfc-workspace-action/commit/e02fea6894bc27569e7c9e5bca72210135703bbf))
+
 # [1.4.0](https://github.com/cbsinteractive/delete-tfc-workspace-action/compare/1.3.0...1.4.0) (2022-01-27)
 
 
