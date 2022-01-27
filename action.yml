@@ -1,4 +1,4 @@
-name: Delete TFC Workspace
+name: Delete Terraform Cloud Workspace
 description: Deletes a Terraform Cloud workspace
 inputs:
   tfcToken:
